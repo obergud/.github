@@ -1,1 +1,1 @@
-# .github
+# Homelab Environment Organization
